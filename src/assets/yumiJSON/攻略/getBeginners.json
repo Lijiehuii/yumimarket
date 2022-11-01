@@ -1,0 +1,56 @@
+{
+    "code": "0",
+    "msg": null,
+    "data": [
+        {
+            "id": "41a3cb796ae2fae13f21c955e7b893b0",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2020-06-11 09:26:09",
+            "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "updateTime": "2022-01-14 10:47:39",
+            "useStatusName": "在用",
+            "title": "新手开店",
+            "content": "<p>（1）登陆APP，点击进入&ldquo;我的&mdash;&mdash;店铺中心&rdquo;；</p>\n<p>（2）在店铺中心界面，先进行【实名认证】；</p>\n<p>（3）平台对卖家提交的&ldquo;实名身份&rdquo;进行审核，审核&ldquo;不通过&rdquo;，卖家需重新编辑提交&ldquo;实名身份&rdquo;，平台会再次对重新提交的&ldquo;实名身份&rdquo;进行审核；</p>\n<p>（4）身份&ldquo;审核通过&rdquo;后，下一步则进行创建店铺；</p>\n<p>（5）平台会对卖家创建的店铺进行审核，审核&ldquo;不通过&rdquo;，则需要重新编辑提交&ldquo;店铺信息&rdquo;，平台会再次对重新提交的店铺进行审核；</p>\n<p>（6）平台审核&ldquo;通过&rdquo;后，下一步则进行绑定银行卡及查看相关协议；</p>\n<p>（7）最后点击完成，进入店铺管理。</p>",
+            "orderNo": 0
+        },
+        {
+            "id": "25543b0835863efc580507274bd2a49a",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:34:59",
+            "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "updateTime": "2022-01-14 11:35:21",
+            "useStatusName": "在用",
+            "title": "商家接单",
+            "content": "<p>（1）首先进入&ldquo;店铺中心-我的-订单设置&rdquo;页面；</p>\n<p>（2）点击&ldquo;自动接单设置&rdquo;，即可进行设置是否自动接单，系统默认自动接单（接单时间和营业时间一致）</p>",
+            "orderNo": 1
+        },
+        {
+            "id": "bef4962eacc8661c021ab703483605f5",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:49:28",
+            "updateUserId": null,
+            "updateTime": null,
+            "useStatusName": "在用",
+            "title": "跨店交易",
+            "content": "<p>鱼米支持跨店拼单交易；但需要分别把多家店铺商品加入购物车；再购物车中一同结算。</p>\n<p>&nbsp;</p>",
+            "orderNo": 3
+        },
+        {
+            "id": "1afe939db249fa8d17d723954190f7cb",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:56:04",
+            "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "updateTime": "2022-01-14 15:09:37",
+            "useStatusName": "在用",
+            "title": "取货",
+            "content": "<p>（1）送货上门：由蜂鸟配送等直接配送到收获地点；</p>\n<p>（2）自提：支持线上下单后到市场自提点提取。</p>",
+            "orderNo": 4
+        }
+    ],
+    "count": 4,
+    "success": true
+}

@@ -1,0 +1,258 @@
+{
+    "code": "0",
+    "msg": "success",
+    "data": [
+        {
+            "id": "c6adabf206dc1e53386139c2800cbea8",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:57:33",
+            "updateUserId": null,
+            "updateTime": null,
+            "useStatusName": "在用",
+            "typeName": "交易",
+            "icon": null,
+            "orderNo": 1,
+            "wholeIcon": null,
+            "questionList": [
+                {
+                    "id": "92a524cf359fa5d62ea3658a5fa1c246",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 14:45:14",
+                    "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "updateTime": "2022-01-14 14:46:54",
+                    "useStatusName": "在用",
+                    "typeId": "c6adabf206dc1e53386139c2800cbea8",
+                    "questionType": "交易",
+                    "q": "是否可以取消订单？",
+                    "a": "<p>1、未支付订单，可以直接取消关闭订单；2、已支付订单，在商家未接单时，可以取消订单；3、商家已接单，可以跟商家沟通退款。</p>",
+                    "orderNo": 0
+                },
+                {
+                    "id": "975ab646779230e26c7370d1d6636e10",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 14:30:09",
+                    "updateUserId": null,
+                    "updateTime": null,
+                    "useStatusName": "在用",
+                    "typeId": "c6adabf206dc1e53386139c2800cbea8",
+                    "questionType": "交易",
+                    "q": "是否支持跨店购买？",
+                    "a": "<p>支持，但需要把多个商家的商品加入到购物车，一同结算。</p>",
+                    "orderNo": 0
+                }
+            ],
+            "showMore": false
+        },
+        {
+            "id": "744368b2ac8de2c89353891641000794",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:57:44",
+            "updateUserId": null,
+            "updateTime": null,
+            "useStatusName": "在用",
+            "typeName": "退货",
+            "icon": null,
+            "orderNo": 2,
+            "wholeIcon": null,
+            "questionList": [
+                {
+                    "id": "77cf6ae4f278749e69b9ebc95cef8952",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 14:41:31",
+                    "updateUserId": null,
+                    "updateTime": null,
+                    "useStatusName": "在用",
+                    "typeId": "744368b2ac8de2c89353891641000794",
+                    "questionType": "退货",
+                    "q": "是否支持退货？",
+                    "a": "<p>需要跟商家进行沟通，特别涉及部分需要加工的商品（如：鱼、烧腊等等）</p>",
+                    "orderNo": 0
+                },
+                {
+                    "id": "98f96a71c2e1f0499a501cad8d2d3202",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 14:33:50",
+                    "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "updateTime": "2022-01-14 14:42:13",
+                    "useStatusName": "在用",
+                    "typeId": "744368b2ac8de2c89353891641000794",
+                    "questionType": "退货",
+                    "q": "多个商家一同下单，是否可以只退部分商家的款？",
+                    "a": "<p>可以，如果多个商家一同下单时，可以跟商家沟通沟通自行退款。</p>",
+                    "orderNo": 0
+                }
+            ],
+            "showMore": false
+        },
+        {
+            "id": "7bb64120c234bdb1b1fdf78a7a761c4c",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:58:32",
+            "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "updateTime": "2022-01-14 11:59:58",
+            "useStatusName": "在用",
+            "typeName": "配送",
+            "icon": null,
+            "orderNo": 3,
+            "wholeIcon": null,
+            "questionList": [
+                {
+                    "id": "16f8339d5263d518d66cf3d314a5fee1",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 14:49:47",
+                    "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "updateTime": "2022-01-14 14:58:23",
+                    "useStatusName": "在用",
+                    "typeId": "7bb64120c234bdb1b1fdf78a7a761c4c",
+                    "questionType": "配送",
+                    "q": "配送范围？",
+                    "a": "<p>最佳距离2km以内，一般5km以内。</p>",
+                    "orderNo": 0
+                },
+                {
+                    "id": "20b8584c4c970b45ba57939604b92e76",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 15:00:36",
+                    "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "updateTime": "2022-01-14 15:00:59",
+                    "useStatusName": "在用",
+                    "typeId": "7bb64120c234bdb1b1fdf78a7a761c4c",
+                    "questionType": "配送",
+                    "q": "是否支持自提？",
+                    "a": "<p>支持，市场内设有自提点，消费者可以自行提取。</p>",
+                    "orderNo": 0
+                }
+            ],
+            "showMore": false
+        },
+        {
+            "id": "12f4f41e756112e6aa29707ced494f75",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:58:13",
+            "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "updateTime": "2022-01-14 12:00:22",
+            "useStatusName": "在用",
+            "typeName": "开店",
+            "icon": null,
+            "orderNo": 4,
+            "wholeIcon": null,
+            "questionList": [
+                {
+                    "id": "fc28048eb7928e525e6b05780844ce0d",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 15:02:49",
+                    "updateUserId": null,
+                    "updateTime": null,
+                    "useStatusName": "在用",
+                    "typeId": "12f4f41e756112e6aa29707ced494f75",
+                    "questionType": "开店",
+                    "q": "开店要求？",
+                    "a": "<p>1、属于市场商户；2、需要相关资质证书；3、具体开店，可查看商家入驻攻略。</p>",
+                    "orderNo": 0
+                },
+                {
+                    "id": "c44e2925d6d42bb11eb0ef6a71bcd183",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 15:04:27",
+                    "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "updateTime": "2022-01-14 15:04:55",
+                    "useStatusName": "在用",
+                    "typeId": "12f4f41e756112e6aa29707ced494f75",
+                    "questionType": "开店",
+                    "q": "是否支持开多个店铺？",
+                    "a": "<p>不支持，一个账号只允许开一个店铺；如需要另外开店铺，需要重新注册一个账号。</p>",
+                    "orderNo": 1
+                }
+            ],
+            "showMore": false
+        },
+        {
+            "id": "4f4a908dda07173facd15ad903917949",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:58:19",
+            "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "updateTime": "2022-01-14 12:00:27",
+            "useStatusName": "在用",
+            "typeName": "提现",
+            "icon": null,
+            "orderNo": 5,
+            "wholeIcon": null,
+            "questionList": [
+                {
+                    "id": "4e17cf6070d841abf8ed69e0dfb7af6b",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 15:06:55",
+                    "updateUserId": null,
+                    "updateTime": null,
+                    "useStatusName": "在用",
+                    "typeId": "4f4a908dda07173facd15ad903917949",
+                    "questionType": "提现",
+                    "q": "多久才能提现？",
+                    "a": "<p>一般3到10个工作日内，商家具体时候到账，需要查看合约。</p>",
+                    "orderNo": 0
+                },
+                {
+                    "id": "c748942636d338b9ebe9cd078a13f038",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 15:08:37",
+                    "updateUserId": null,
+                    "updateTime": null,
+                    "useStatusName": "在用",
+                    "typeId": "4f4a908dda07173facd15ad903917949",
+                    "questionType": "提现",
+                    "q": "提现不了？",
+                    "a": "<p>1、是否确定绑定的银行卡有效；2、提现日期是否时约定时间；3、联系平台客服。</p>",
+                    "orderNo": 0
+                }
+            ],
+            "showMore": false
+        },
+        {
+            "id": "0ab41949ef59cf31a46d121dc922422d",
+            "useStatus": "1",
+            "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+            "createTime": "2022-01-14 11:59:45",
+            "updateUserId": null,
+            "updateTime": null,
+            "useStatusName": "在用",
+            "typeName": "其他",
+            "icon": null,
+            "orderNo": 6,
+            "wholeIcon": null,
+            "questionList": [
+                {
+                    "id": "4ecd31c63175a347c13be5a323db6074",
+                    "useStatus": "1",
+                    "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+                    "createTime": "2022-01-14 14:36:04",
+                    "updateUserId": null,
+                    "updateTime": null,
+                    "useStatusName": "在用",
+                    "typeId": "0ab41949ef59cf31a46d121dc922422d",
+                    "questionType": "其他",
+                    "q": "出现异常情况？",
+                    "a": "<p>可以直接拨打平台热线，工作人员及时跟进。</p>",
+                    "orderNo": 0
+                }
+            ],
+            "showMore": false
+        }
+    ],
+    "count": null,
+    "success": true
+}

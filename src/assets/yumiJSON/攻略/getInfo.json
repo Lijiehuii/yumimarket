@@ -1,0 +1,16 @@
+{
+    "code": "0",
+    "msg": "查询成功",
+    "data": {
+        "id": "d4717e3449b826d44f2dcfe27dfa8a69",
+        "useStatus": "1",
+        "createUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+        "createTime": "2020-06-09 17:44:55",
+        "updateUserId": "15261580-90c3-11e8-a2c9-8d234435efc4",
+        "updateTime": "2022-02-10 17:51:05",
+        "useStatusName": "在用",
+        "content": "<p><span style=\"color: #000000;\">（1）登陆APP，点击进入&ldquo;我的&mdash;&mdash;店铺中心&rdquo;；</span></p>\n<p><span style=\"color: #000000;\"><img src=\"http://ddfresh-img.vasoe.com.cn/tinymac/202202/MHV4M1LP_blob\" alt=\"\" /><img src=\"http://ddfresh-img.vasoe.com.cn/tinymac/202202/I4HMZD0Z_blob\" alt=\"\" /></span></p>\n<p>（2）在店铺中心界面，先进行【实名认证】；</p>\n<p><img src=\"http://ddfresh-img.vasoe.com.cn/tinymac/202202/TZD3HGJ7_blob\" alt=\"\" /></p>\n<p>（3）平台对卖家提交的&ldquo;实名身份&rdquo;进行审核，审核&ldquo;不通过&rdquo;，卖家需重新编辑提交&ldquo;实名身份&rdquo;，平台会再次对重新提交的&ldquo;实名身份&rdquo;进行审核；</p>\n<p>&nbsp;</p>\n<p>（4）身份&ldquo;审核通过&rdquo;后，下一步则进行创建店铺；</p>\n<p><img src=\"http://ddfresh-img.vasoe.com.cn/tinymac/202202/UNKIC4ZF_blob\" alt=\"\" /></p>\n<p>（5）平台会对卖家创建的店铺进行审核，审核&ldquo;不通过&rdquo;，则需要重新编辑提交&ldquo;店铺信息&rdquo;，平台会再次对重新提交的店铺进行审核；</p>\n<p>（6）平台审核&ldquo;通过&rdquo;后，下一步则进行绑定银行卡及查看相关协议；</p>\n<p>&nbsp;</p>\n<p><img src=\"http://ddfresh-img.vasoe.com.cn/tinymac/202202/H0H8CRR5_blob\" alt=\"\" /></p>\n<p>（7）最后点击完成，进入店铺管理。</p>\n<p><img src=\"http://ddfresh-img.vasoe.com.cn/tinymac/202202/KFESE0DU_blob\" alt=\"\" /></p>"
+    },
+    "count": null,
+    "success": true
+}
