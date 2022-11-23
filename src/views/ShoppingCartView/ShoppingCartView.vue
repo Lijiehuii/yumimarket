@@ -302,6 +302,7 @@ export default {
     },
 
     removeItem(list) {
+      console.log(list)
       let arr = [];
       for (let i = 0; i < list.length; i++) {
         console.log(list[i].checked);

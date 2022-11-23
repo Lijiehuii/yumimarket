@@ -6,7 +6,7 @@
     </div>
     <div class="price-desc">
       <p class="total-price"><span class="price-icon">￥</span>{{listTotalMoney}}</p>
-      <p class="estimated-cost">预估配送费￥<span>{{5 + (1 * distance * weight).toFixed(1)}}</span></p>
+      <p class="estimated-cost">预估配送费￥<span>{{5 + (1 * distance * weight).toFixed(1) * 1}}</span></p>
     </div>
   </div>
 </template>

@@ -185,7 +185,7 @@
           <p>总重量{{ JSON.parse($route.query.carList)[0].totalWeight }}kg</p>
         </div>
         <div class="cart-right" @click.stop="test">
-          <span class="settlement">提交订单</span>
+          <span class="settlement" @click="removeItem(carList[0]?.skuList)">提交订单</span>
         </div>
       </div>
       <van-action-sheet v-model="shows" :actions="actions" @select="onSelect" />
@@ -248,6 +248,7 @@ export default {
     this.getItemData();
     // this.carList =
     this.carList = JSON.parse(this.$route.query.carList);
+    console.log(this.carList)
     console.log(JSON.parse(this.$route.query.carList)); // save 的请求所需参数carList
   },
   computed: {
@@ -312,6 +313,18 @@ export default {
       } else if (this.show == false) {
         this.show = true;
       }
+    },
+
+    removeItem(list) {
+      let arr = [];
+      for (let i = 0; i < list.length; i++) {
+        console.log(list[i].checked);
+        if (list[i].checked) {
+          arr.push(list[i].goodsId);
+        }
+      }
+
+      this.$emit("removeItem", arr);
     },
 
     goBlck() {

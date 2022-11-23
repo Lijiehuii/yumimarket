@@ -181,6 +181,7 @@ export default {
     },
 
     removeItem(arr) {
+      console.log('删了没')
       for (let i = 0; i < arr.length; i++) {
         this.sku = this.sku.filter((f) => {
           return f.goodsId != arr[i];
